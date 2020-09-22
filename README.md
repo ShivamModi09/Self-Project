@@ -1,4 +1,4 @@
-# Self-Project
+# _Self-Project_
 
 This contains the codes of various machine learning algorithms in python which I do as my hobby.
 
