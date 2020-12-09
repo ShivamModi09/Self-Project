@@ -1,6 +1,6 @@
 # _Self-Project_
 
-This contains the codes of various machine learning algorithms in python which I do as my hobby.
+This contains the codes of various machine learning algorithms in python which I've practiced.
 
 Click on the google colab link to view them:
 1) Speech Emotion Recognition: https://colab.research.google.com/drive/1IbB3neVqwdHEFZmyRvMBs0gSEDXSSw1_?usp=sharing
@@ -11,3 +11,5 @@ Click on the google colab link to view them:
 6) Titanic Dataset- Kaggle Completition: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
 7) MNIST: https://colab.research.google.com/drive/1NWoOf9sgUM2vp3RkjRYJAEYg1d2CNb8h?usp=sharing
 8) GNR: https://colab.research.google.com/drive/1WImOy9-rdoBW5Evdvqsx_iqgaxF7DwJr?usp=sharing
+9) FashionMNIST: https://colab.research.google.com/drive/1iEHAIFCHQiKDLUKVS2SS-OfG_UAKF6sc?usp=sharing 
+10) Fire Dataset- Kaggle: https://colab.research.google.com/drive/1ZdtMH5agThezAhd2_ydxgWnivigXE_MK?usp=sharing
