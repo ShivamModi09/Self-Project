@@ -23,3 +23,12 @@ Click on the google colab link to view them:
 ## Internship - Edunnovate Technologies:
 I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've by my own build this repo.
 https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
+
+ ## CloudyML Assignments:
+ 1) Feature Engineering: https://colab.research.google.com/drive/1QHKXzClhBAMiHONPmI8ExySsRE-rHURH
+ 2) Python Assignment: https://colab.research.google.com/drive/1b5ncR45zNsUXNca-lC_ZteeJ2gjcYSnX?usp=sharing
+ 3) Statistics: https://colab.research.google.com/drive/1Yu_dvLndKrAYQyc87yB8KedPuvDYKrfI?usp=sharing
+ 4) Neural Networks DL1 : https://colab.research.google.com/drive/1FTOxuru2Ub3cjIhOr0OBWDqcF6FTHXgT?usp=sharing
+ 5) Computer Vision DL2 : https://colab.research.google.com/drive/1q1_-1cuZPwStO0vlNyJGF3cn83qfuorf?usp=sharing
+ 6) Natural Language Processing DL3 : https://colab.research.google.com/drive/10oBK5BKKK-YI6KBYhPQQlhioTO9mJKQV?usp=sharing
+ 7) Time Series Analysis DL4 : https://colab.research.google.com/drive/1ZF2Sx5wgLNKcS4G0KZomuM5cEQ_dSqQ-
