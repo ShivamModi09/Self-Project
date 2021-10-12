@@ -12,6 +12,18 @@ https://tinyurl.com/38sh8ahh
 Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
+# _Internships_
+## Oracle:
+Upcoming summer Intern @ 2022
+
+## Ultratech
+Position - Data Scientist
+Cover Letter: https://drive.google.com/file/d/1XN5u0l6aum2uSOee46HsGe558Ch1He26/view?usp=sharing
+
+## Gupshup
+Position - NLP Engineer
+Official Letter: https://drive.google.com/file/d/1WU_lhAOGMbgIg0llrA2pqgzYIfxkarwR/view?usp=sharing
+
 # _Self-Project_
 
 This contains the codes of various machine learning algorithms in python which I've practiced.
