@@ -13,7 +13,7 @@ Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
 # _Internships_
-## Oracle:
+## Oracle
 Upcoming summer Intern @ 2022
 
 ## Ultratech
