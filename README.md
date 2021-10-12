@@ -69,7 +69,7 @@ Click on the google colab link to view them:
  7) Time Series Analysis DL4 : https://colab.research.google.com/drive/1ZF2Sx5wgLNKcS4G0KZomuM5cEQ_dSqQ-
 
 ## CloudyML video lectures:
-_This contains folders of Machine Learning Algorithms & Data Analytics video lectures I made_
+_This contains folders of Machine Learning Algorithms & Data Analytics video lectures I made during my intern, any folder may contain more than 1 video_
 
 1) Decision Tree: https://drive.google.com/drive/folders/1WgZXnFjrOPAcLRnMUb_z7W9r1qkiH_s-
 2) K-Nearest Neighbours: https://drive.google.com/file/d/1XgVPKZvQTg-mItm-VhG9wFYiJBmVkZf2/view?usp=drivesdk
