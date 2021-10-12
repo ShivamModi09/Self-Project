@@ -1,9 +1,9 @@
 # _My Profile_
 
-My name is Shivam Modi and I am currently pursuing a Btech degree in Electrical engineering.
-I'm highly inclined towards Data Analysis, Deep Learning, Machine Learning and Computer Vision.
-Contact details:
-Email ID - modishivu09@gmail.com
+My name is Shivam Modi and I am currently pursuing a Btech degree in Electrical engineering.</br>
+I'm highly inclined towards Data Analysis, Deep Learning, Machine Learning and Computer Vision.</br>
+Contact details:</br>
+Email ID - modishivu09@gmail.com</br>
 Phone no. - 9328409085
 
 Given is the link for my 2 page Technical resume:
