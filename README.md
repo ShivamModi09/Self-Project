@@ -13,16 +13,22 @@ Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
 # _Internships_
+For details regarding work, please refer to my resume
 ## Oracle
 Upcoming summer Intern @ 2022
 
 ## Ultratech
-Position - Data Scientist
+Position - Data Scientist</br>
 Cover Letter: https://drive.google.com/file/d/1XN5u0l6aum2uSOee46HsGe558Ch1He26/view?usp=sharing
 
 ## Gupshup
-Position - NLP Engineer
+Position - NLP Engineer</br>
 Official Letter: https://drive.google.com/file/d/1WU_lhAOGMbgIg0llrA2pqgzYIfxkarwR/view?usp=sharing
+
+## Edunnovate Technologies:
+_This contains mini-course on Machine Learning, I built for this startup_
+I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've build this repo by my own from scratch.
+https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
 
 # _Self-Project_
 
@@ -50,11 +56,6 @@ Click on the google colab link to view them:
 18) PCA implementation - https://colab.research.google.com/drive/1sNc7pqtSA0nrPv9YmsbldaEHbFI6Wpho?usp=sharing
 19) SVM- Cancer Cell Samples: https://colab.research.google.com/drive/1zYORca4CtQt8CZs91EUMIXquYhsnGxC8
 20) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
-
-## Internship - Edunnovate Technologies:
-_This contains mini-course on Machine Learning, I built for this startup_
-I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've build this repo by my own from scratch.
-https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
 
  ## CloudyML Assignments:
  _This contains the list of data science assignments, I built for CloudyML_
