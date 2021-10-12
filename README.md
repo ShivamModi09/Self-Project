@@ -6,10 +6,10 @@ Contact details:
 Email ID - modishivu09@gmail.com
 Phone no. - 9328409085
 
-Below is the link for my 2 page Technical resume:
+Given is the link for my 2 page Technical resume:
 https://tinyurl.com/38sh8ahh
 
-Below is the link to my LinkedIn profile:
+Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
 # _Self-Project_
