@@ -32,7 +32,7 @@ Click on the google colab link to view them:
 
 1) Facial Emotion Recognition: https://colab.research.google.com/drive/1AEoEQyU270SrvYy2W_RP5v8LpXvTH4Co?usp=sharing
 2) Speech Emotion Recognition: https://colab.research.google.com/drive/1IbB3neVqwdHEFZmyRvMBs0gSEDXSSw1_?usp=sharing
-3) GNR-638 Course Project Image Classification model: https://colab.research.google.com/drive/1g1WA8JYjJlGJTuuewH-xbMoPkrzPJfyW?usp=sharing
+3) GNR-638 Course Project Image Classification: https://colab.research.google.com/drive/1g1WA8JYjJlGJTuuewH-xbMoPkrzPJfyW?usp=sharing
 4) Neural Style Transfer: https://colab.research.google.com/drive/1o03Q-Uuk3Wq8QCD1_qyo59Md5YadvNvc?usp=sharing
 5) Fashion Apparel Recognizer(PyTorch): https://colab.research.google.com/drive/11-i0HKTf-OMccB4P8BGr7KK6dx4oXkl1?usp=sharing
 6) Invisible Cloak: https://drive.google.com/file/d/1vjSjMv96JPHmjsBK5tKwg8z_GsHiNkli/view?usp=sharing
@@ -46,7 +46,7 @@ Click on the google colab link to view them:
 14) Naive Bayes - Spambase dataset: https://colab.research.google.com/drive/14yPgmY4_KYs6HZPbNUvvDDVGmHEdGPnk?usp=sharing
 15) GridSearchCV - Churn data: https://colab.research.google.com/drive/1zPVdA8xkdMk-vmXUnu0o5M85LTn1SsKB?usp=sharing
 16) Decision Tree- Drug Dataset: https://colab.research.google.com/drive/1P6pkP1flb81Uu1vIX5ovjfw2qrXVANrD
-17) Decision Tree - Pruning - Breast Cancer data: https://colab.research.google.com/drive/1cEXiu6uocCsOKo5bB9rOy3DVBlEM6lqA?usp=sharing
+17) DT - Pruning - Breast Cancer data: https://colab.research.google.com/drive/1cEXiu6uocCsOKo5bB9rOy3DVBlEM6lqA?usp=sharing
 18) PCA implementation - https://colab.research.google.com/drive/1sNc7pqtSA0nrPv9YmsbldaEHbFI6Wpho?usp=sharing
 19) SVM- Cancer Cell Samples: https://colab.research.google.com/drive/1zYORca4CtQt8CZs91EUMIXquYhsnGxC8
 20) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
