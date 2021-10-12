@@ -13,7 +13,7 @@ Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
 # _Internships_
-For more details regarding my work during the internship, please refer to my resume. It has detailed note of my projects I worked on during internship phase.
+For more details regarding my work during the internships, please refer to my resume. It has detailed note of my projects I worked on during internship phase.
 ## Oracle
 Upcoming summer Intern @ 2022</br>
 Position - Server Technology(Machine Learning)
