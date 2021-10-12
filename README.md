@@ -1,7 +1,7 @@
 # _My Profile_
 
 My name is Shivam Modi and I am currently pursuing a Btech degree in Electrical engineering.</br>
-I'm highly inclined towards Data Analysis, Deep Learning, Machine Learning and Computer Vision. I've knowledge of MySQl database programming through a Udemy course and Programming with C++ is also one of my strengths because I've practised competitive programming as well.</br>
+I'm highly inclined towards Data Analysis, Deep Learning, Machine Learning and Computer Vision. I also have knowledge of MySQL database programming through a Udemy course and Programming with C++ is one of my strengths because I've practised a lot competitive programming as well.</br>
 Contact details:</br>
 Email ID - modishivu09@gmail.com</br>
 Phone no. - 9328409085
