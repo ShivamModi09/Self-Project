@@ -32,7 +32,7 @@ Click on the google colab link to view them:
 
 1) Facial Emotion Recognition: https://colab.research.google.com/drive/1AEoEQyU270SrvYy2W_RP5v8LpXvTH4Co?usp=sharing
 2) Speech Emotion Recognition: https://colab.research.google.com/drive/1IbB3neVqwdHEFZmyRvMBs0gSEDXSSw1_?usp=sharing
-3) GNR-638 Course Project Image Classification: https://colab.research.google.com/drive/1g1WA8JYjJlGJTuuewH-xbMoPkrzPJfyW?usp=sharing
+3) GNR-638 Project Image Classification: https://colab.research.google.com/drive/1g1WA8JYjJlGJTuuewH-xbMoPkrzPJfyW?usp=sharing
 4) Neural Style Transfer: https://colab.research.google.com/drive/1o03Q-Uuk3Wq8QCD1_qyo59Md5YadvNvc?usp=sharing
 5) Fashion Apparel Recognizer(PyTorch): https://colab.research.google.com/drive/11-i0HKTf-OMccB4P8BGr7KK6dx4oXkl1?usp=sharing
 6) Invisible Cloak: https://drive.google.com/file/d/1vjSjMv96JPHmjsBK5tKwg8z_GsHiNkli/view?usp=sharing
