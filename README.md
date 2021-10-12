@@ -15,7 +15,8 @@ https://www.linkedin.com/in/shivam-modi-aa15261a9
 # _Internships_
 For details regarding work, please refer to my resume
 ## Oracle
-Upcoming summer Intern @ 2022
+Upcoming summer Intern @ 2022</br>
+Position - Server Technology(ML Engineer)
 
 ## Ultratech
 Position - Data Scientist</br>
