@@ -1,7 +1,7 @@
 # _My Profile_
 
 My name is Shivam Modi and I am currently pursuing a Btech degree in Electrical engineering.</br>
-I'm highly inclined towards Data Analysis, Deep Learning, Machine Learning and Computer Vision.</br>
+I'm highly inclined towards Data Analysis, Deep Learning, Machine Learning and Computer Vision. I've knowledge of MySQl database programming through a Udemy course and Programming with C++ is also one of my strengths because I've practised competitive programming as well.</br>
 Contact details:</br>
 Email ID - modishivu09@gmail.com</br>
 Phone no. - 9328409085
@@ -16,7 +16,7 @@ https://www.linkedin.com/in/shivam-modi-aa15261a9
 For details regarding work, please refer to my resume
 ## Oracle
 Upcoming summer Intern @ 2022</br>
-Position - Server Technology(ML Engineer)
+Position - Server Technology(Machine Learning)
 
 ## Ultratech
 Position - Data Scientist</br>
@@ -59,7 +59,8 @@ Click on the google colab link to view them:
 20) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
 
  ## CloudyML Assignments:
- _This contains the list of data science assignments, I built for CloudyML_
+ _This contains the list of data science assignments, I built for CloudyML_</br>
+ CloudyML is a firm that I'm currently working as a part timer along with my academics(12 hours per week). It's now more than 6 months since I'm working here.
  
  1) Feature Engineering: https://colab.research.google.com/drive/1QHKXzClhBAMiHONPmI8ExySsRE-rHURH
  2) Python Assignment: https://colab.research.google.com/drive/1b5ncR45zNsUXNca-lC_ZteeJ2gjcYSnX?usp=sharing
@@ -77,3 +78,4 @@ _This contains folders of Machine Learning Algorithms & Data Analytics video lec
 3) Principal Component Analysis: https://drive.google.com/drive/folders/1ER8lYLgT9naXPgh4UutKb7wwQa1JmQWM?usp=sharing
 4) Naive Bayes: https://drive.google.com/file/d/1WwKdhL36u4c7JOCjF4NC_I4H4tbzYQkI/view?usp=sharing
 5) Data Cleaning: https://docs.google.com/spreadsheets/d/1PORP72v8KAU4ktSqCOekfoV5cFNPmdjfz0eRd8eCIEc/edit?usp=sharing
+
