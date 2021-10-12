@@ -1,3 +1,11 @@
+# _My Profile_
+
+Below is the link for my 2 page Technical resume:
+https://tinyurl.com/38sh8ahh
+
+Below is the link to my LinkedIn profile:
+https://www.linkedin.com/in/shivam-modi-aa15261a9\
+
 # _Self-Project_
 
 This contains the codes of various machine learning algorithms in python which I've practiced.
@@ -21,10 +29,13 @@ Click on the google colab link to view them:
 15) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
 
 ## Internship - Edunnovate Technologies:
-I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've by my own build this repo.
+_This contains mini-course on Machine Learning, I built for this startup_
+I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've build this repo by my own from scratch.
 https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
 
  ## CloudyML Assignments:
+ _This contains the list of data science assignments, I built for CloudyML_
+ 
  1) Feature Engineering: https://colab.research.google.com/drive/1QHKXzClhBAMiHONPmI8ExySsRE-rHURH
  2) Python Assignment: https://colab.research.google.com/drive/1b5ncR45zNsUXNca-lC_ZteeJ2gjcYSnX?usp=sharing
  3) Statistics: https://colab.research.google.com/drive/1Yu_dvLndKrAYQyc87yB8KedPuvDYKrfI?usp=sharing
@@ -32,3 +43,12 @@ https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
  5) Computer Vision DL2 : https://colab.research.google.com/drive/1q1_-1cuZPwStO0vlNyJGF3cn83qfuorf?usp=sharing
  6) Natural Language Processing DL3 : https://colab.research.google.com/drive/10oBK5BKKK-YI6KBYhPQQlhioTO9mJKQV?usp=sharing
  7) Time Series Analysis DL4 : https://colab.research.google.com/drive/1ZF2Sx5wgLNKcS4G0KZomuM5cEQ_dSqQ-
+
+## CloudyML video lectures:
+_This contains folders of Machine Learning Algorithms & Data Analytics video lectures I made_
+
+1) Decision Tree: https://drive.google.com/drive/folders/1WgZXnFjrOPAcLRnMUb_z7W9r1qkiH_s-
+2) K-Nearest Neighbours: https://drive.google.com/file/d/1XgVPKZvQTg-mItm-VhG9wFYiJBmVkZf2/view?usp=drivesdk
+3) Principal Component Analysis: https://drive.google.com/drive/folders/1ER8lYLgT9naXPgh4UutKb7wwQa1JmQWM?usp=sharing
+4) Naive Bayes: https://drive.google.com/file/d/1WwKdhL36u4c7JOCjF4NC_I4H4tbzYQkI/view?usp=sharing
+5) Data Cleaning: https://docs.google.com/spreadsheets/d/1PORP72v8KAU4ktSqCOekfoV5cFNPmdjfz0eRd8eCIEc/edit?usp=sharing
