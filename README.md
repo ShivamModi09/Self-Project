@@ -6,7 +6,7 @@ Contact details:</br>
 Email ID - modishivu09@gmail.com</br>
 Phone no. - 9328409085
 
-Given is the link for my 2 page Technical resume:
+Given is the link for my **2 page Technical resume**:
 https://tinyurl.com/38sh8ahh
 
 Given is the link to my LinkedIn profile:
