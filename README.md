@@ -12,7 +12,7 @@ https://tinyurl.com/38sh8ahh
 Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
-# _Internships_
+# _Internship Experiences_
 For more details regarding my work during the internships, please refer to my resume. It has detailed note of my projects I worked on during internship phase.
 ## Oracle
 Upcoming summer Intern @ 2022</br>
@@ -31,7 +31,7 @@ _This contains mini-course on Machine Learning, I built for this startup_
 I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've build this repo by my own from scratch.
 https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
 
-# _Self-Project_
+# _Self-Projects_
 
 This contains the codes of various machine learning algorithms in python which I've practiced.
 
@@ -58,9 +58,9 @@ Click on the google colab link to view them:
 19) SVM- Cancer Cell Samples: https://colab.research.google.com/drive/1zYORca4CtQt8CZs91EUMIXquYhsnGxC8
 20) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
 
+**CloudyML** is a firm where I'm currently working as a part timer(position: product manager) along with my academics(12-15 hours per week). It's now more than 6 months since I'm working here. Looking for a change now(because want to work on real-world projects and show my skills there).
  ## CloudyML Assignments:
  _This contains the list of data science assignments, I built for CloudyML_</br>
- CloudyML is a firm that I'm currently working as a part timer along with my academics(12 hours per week). It's now more than 6 months since I'm working here.
  
  1) Feature Engineering: https://colab.research.google.com/drive/1QHKXzClhBAMiHONPmI8ExySsRE-rHURH
  2) Python Assignment: https://colab.research.google.com/drive/1b5ncR45zNsUXNca-lC_ZteeJ2gjcYSnX?usp=sharing
