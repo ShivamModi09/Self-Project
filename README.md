@@ -58,6 +58,7 @@ Click on the google colab link to view them:
 19) SVM- Cancer Cell Samples: https://colab.research.google.com/drive/1zYORca4CtQt8CZs91EUMIXquYhsnGxC8
 20) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
 
+## 
 **CloudyML** is a firm where I'm currently working as a part timer(position: product manager) along with my academics(12-15 hours per week). It's now more than 6 months since I'm working here. Looking for a change now(because want to work on real-world projects and show my skills there).
  ## CloudyML Assignments:
  _This contains the list of data science assignments, I built for CloudyML_</br>
