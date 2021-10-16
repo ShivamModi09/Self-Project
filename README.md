@@ -13,7 +13,7 @@ Given is the link to my LinkedIn profile:
 https://www.linkedin.com/in/shivam-modi-aa15261a9
 
 # _Internship Experiences_
-For more details regarding my work during the internships, please refer to my resume. It has detailed note of my projects I worked on during internship phase.
+For more details regarding my work during the internships, please refer to my resume. It has detailed note of my projects I worked on during the internship phase.
 ## Oracle
 Upcoming summer Intern @ 2022</br>
 Position - Server Technology(Machine Learning)
@@ -27,7 +27,7 @@ Position - NLP Engineer</br>
 Official Letter: https://drive.google.com/file/d/1WU_lhAOGMbgIg0llrA2pqgzYIfxkarwR/view?usp=sharing
 
 ## Edunnovate Technologies:
-_This contains mini-course on Machine Learning, I built for this startup_
+_This contains mini-course on Machine Learning, I built for this startup_</br>
 I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've build this repo by my own from scratch.
 https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
 
