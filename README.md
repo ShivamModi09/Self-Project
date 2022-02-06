@@ -31,6 +31,28 @@ _This contains mini-course on Machine Learning, I built for this startup_</br>
 I built a 8 week course for this ed-tech startup which consists of various projects assignment, solved by me. I've build this repo by my own from scratch.
 https://github.com/ShivamModi09/Edunnovate-Technologies-Data-Science
 
+## CloudyML:
+Position(May 2021 - November 2021) - Curriculum Content Developer</br>
+Internship Letter: 
+## CloudyML Assignments:
+ _This contains the list of data science assignments, I built for CloudyML_</br>
+ 1) Feature Engineering: https://colab.research.google.com/drive/1QHKXzClhBAMiHONPmI8ExySsRE-rHURH
+ 2) Python Assignment: https://colab.research.google.com/drive/1b5ncR45zNsUXNca-lC_ZteeJ2gjcYSnX?usp=sharing
+ 3) Statistics: https://colab.research.google.com/drive/1Yu_dvLndKrAYQyc87yB8KedPuvDYKrfI?usp=sharing
+ 4) Neural Networks DL1 : https://colab.research.google.com/drive/1FTOxuru2Ub3cjIhOr0OBWDqcF6FTHXgT?usp=sharing
+ 5) Computer Vision DL2 : https://colab.research.google.com/drive/1q1_-1cuZPwStO0vlNyJGF3cn83qfuorf?usp=sharing
+ 6) Natural Language Processing DL3 : https://colab.research.google.com/drive/10oBK5BKKK-YI6KBYhPQQlhioTO9mJKQV?usp=sharing
+ 7) Time Series Analysis DL4 : https://colab.research.google.com/drive/1ZF2Sx5wgLNKcS4G0KZomuM5cEQ_dSqQ-
+
+## CloudyML video lectures:
+_This contains folders of Machine Learning Algorithms & Data Analytics video lectures I made during my intern, any folder may contain more than one video. These vidoes are uploaded on YouTube as well but here, you can view them through my personal links_
+
+1) Decision Tree: https://drive.google.com/drive/folders/1WgZXnFjrOPAcLRnMUb_z7W9r1qkiH_s-
+2) K-Nearest Neighbours: https://drive.google.com/file/d/1XgVPKZvQTg-mItm-VhG9wFYiJBmVkZf2/view?usp=drivesdk
+3) Principal Component Analysis: https://drive.google.com/drive/folders/1ER8lYLgT9naXPgh4UutKb7wwQa1JmQWM?usp=sharing
+4) Naive Bayes: https://drive.google.com/file/d/1WwKdhL36u4c7JOCjF4NC_I4H4tbzYQkI/view?usp=sharing
+5) Data Cleaning: https://docs.google.com/spreadsheets/d/1PORP72v8KAU4ktSqCOekfoV5cFNPmdjfz0eRd8eCIEc/edit?usp=sharing
+
 # _Self-Projects_
 
 This contains the codes of various machine learning algorithms in python which I've practiced.
@@ -57,26 +79,3 @@ Click on the google colab link to view them:
 18) PCA implementation - https://colab.research.google.com/drive/1sNc7pqtSA0nrPv9YmsbldaEHbFI6Wpho?usp=sharing
 19) SVM- Cancer Cell Samples: https://colab.research.google.com/drive/1zYORca4CtQt8CZs91EUMIXquYhsnGxC8
 20) Logistic Regression- Churn Data: https://colab.research.google.com/drive/1GS8br04in2No3fGGOfLw7wuOin15LXSw
-
-## 
-**CloudyML** is a firm where I'm currently working as a part timer(position: product manager) along with my academics(12-15 hours per week). It's now more than 6 months since I'm working here. Looking for a change now(because want to work on real-world projects and show my skills there).
- ## CloudyML Assignments:
- _This contains the list of data science assignments, I built for CloudyML_</br>
- 
- 1) Feature Engineering: https://colab.research.google.com/drive/1QHKXzClhBAMiHONPmI8ExySsRE-rHURH
- 2) Python Assignment: https://colab.research.google.com/drive/1b5ncR45zNsUXNca-lC_ZteeJ2gjcYSnX?usp=sharing
- 3) Statistics: https://colab.research.google.com/drive/1Yu_dvLndKrAYQyc87yB8KedPuvDYKrfI?usp=sharing
- 4) Neural Networks DL1 : https://colab.research.google.com/drive/1FTOxuru2Ub3cjIhOr0OBWDqcF6FTHXgT?usp=sharing
- 5) Computer Vision DL2 : https://colab.research.google.com/drive/1q1_-1cuZPwStO0vlNyJGF3cn83qfuorf?usp=sharing
- 6) Natural Language Processing DL3 : https://colab.research.google.com/drive/10oBK5BKKK-YI6KBYhPQQlhioTO9mJKQV?usp=sharing
- 7) Time Series Analysis DL4 : https://colab.research.google.com/drive/1ZF2Sx5wgLNKcS4G0KZomuM5cEQ_dSqQ-
-
-## CloudyML video lectures:
-_This contains folders of Machine Learning Algorithms & Data Analytics video lectures I made during my intern, any folder may contain more than one video. These vidoes are uploaded on YouTube as well but here, you can view them through my personal links_
-
-1) Decision Tree: https://drive.google.com/drive/folders/1WgZXnFjrOPAcLRnMUb_z7W9r1qkiH_s-
-2) K-Nearest Neighbours: https://drive.google.com/file/d/1XgVPKZvQTg-mItm-VhG9wFYiJBmVkZf2/view?usp=drivesdk
-3) Principal Component Analysis: https://drive.google.com/drive/folders/1ER8lYLgT9naXPgh4UutKb7wwQa1JmQWM?usp=sharing
-4) Naive Bayes: https://drive.google.com/file/d/1WwKdhL36u4c7JOCjF4NC_I4H4tbzYQkI/view?usp=sharing
-5) Data Cleaning: https://docs.google.com/spreadsheets/d/1PORP72v8KAU4ktSqCOekfoV5cFNPmdjfz0eRd8eCIEc/edit?usp=sharing
-
