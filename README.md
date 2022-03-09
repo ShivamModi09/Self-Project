@@ -53,6 +53,11 @@ _This contains folders of Machine Learning Algorithms & Data Analytics video lec
 4) Naive Bayes: https://drive.google.com/file/d/1WwKdhL36u4c7JOCjF4NC_I4H4tbzYQkI/view?usp=sharing
 5) Data Cleaning: https://docs.google.com/spreadsheets/d/1PORP72v8KAU4ktSqCOekfoV5cFNPmdjfz0eRd8eCIEc/edit?usp=sharing
 
+## ONMYOWNTECHNOLOGY(OMOTECH)
+Position(November 2021 - January 2022): Data Scientist
+1) Unemployment rate Analysis: https://drive.google.com/file/d/1TQRv8Jvc2gMZ0iQAdu6AUv4EuKfLkBE5/view?usp=sharing
+2) Cryptocurrencies Investment Analysis: https://drive.google.com/file/d/1Kdr0neRxjEEdPQROC9Jd9Ks5OXTImysO/view
+
 # _Self-Projects_
 
 This contains the codes of various machine learning algorithms in python which I've practiced.
